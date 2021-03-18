@@ -1,0 +1,30 @@
+
+.bx-shadow{box-shadow: 0 0 3px 6px rgb(0 0 0 / 7%);}
+
+.searchBar select{ padding-left: 20px; font-size: 14px; border:none; }
+.searchBar input:focus{ box-shadow: none;}
+button.searchBtn {
+    border: none;
+    padding: 5px 10px;
+}
+button.toggleBtn {
+    border: 0;
+    font-size: 24px;
+}
+.profileBox img {
+    width: 40px;
+    height: 40px;
+}
+.profileText {
+    text-align: right;
+    padding-right: 15px;
+}
+.profileBox h6{
+    font-size: 15px;
+    color: #0B2559;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+.profileBox p{
+    font-size: 12px;
+}
